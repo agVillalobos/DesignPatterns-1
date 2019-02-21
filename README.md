@@ -9,8 +9,7 @@ Patterns are often confused with algorithms, because both concepts describe typi
 
 An analogy to an algorithm is a cooking recipe: both have clear steps to achieve a goal. On the other hand, a pattern is more like a blueprint: you can see what the result and its features are, but the exact order of implementation is up to you.
 
-Classification of patterns
-
+# Classification of patterns
 
 
 Design patterns differ by their complexity, level of detail and scale of applicability to the entire system being designed. I like the analogy to road construction: you can make an intersection safer by either installing some traffic lights or building an entire multi-level interchange with underground passages for pedestrians.
@@ -26,6 +25,8 @@ Creational patterns provide object creation mechanisms that increase flexibility
 Structural patterns explain how to assemble objects and classes into larger structures, while keeping the structures flexible and efficient.
 
 Behavioral patterns take care of effective communication and the assignment of responsibilities between objects.
+
+
 
 
 
